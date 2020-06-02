@@ -8,7 +8,7 @@ Next Level Week é uma semana de aulas gratuitas disponibilizadas pela Rocketsea
 
 O curso Starter está sendo ministrado pelo instrutor de programação web para iniciantes <b>Mayk Brito</b>.
 
-## ECOTELA
+## ECOLETA
 O projeto está sendo desenvolvido durante a semana do meio ambiente (01/05/2020 - 05/05/2020) e o tema do projeto é ecologia. 
 Estamos desenvolvendo um site para cadastro de pontos de coleta de material reciclável e buscar pontos de coleta.
 
